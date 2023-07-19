@@ -34,17 +34,17 @@ highlights:
       - title: 群友又在6
         icon: comment-dots
         details: 速度接7, 8, 9……
-        link: /demo/auto6/README.md
+        link: /demo/1auto6.md
 
       - title: 今天天气哈哈哈
         icon: circle-info
         details: 今天天气怎么样
-        link: /demo/weather/README.md
+        link: /demo/2weather.md
 
       - title: 这是什么玩意
         icon: search
         details: 那你能帮帮我吗
-        link: /demo/baike/README.md
+        link: /demo/3baike.md
 
 copyright: false
 footer: 使用 <a href="https://deanqwq233/deanqwq233-plugin/" target="_blank">deanqwq233(水稻)</a> 插件 | MIT 协议, 版权所有 © 2023-present deanqwq233
